@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# 2022RapidReact
-=======
-# 2022-RapidReact
->>>>>>> cd47a68c9e21492b7675d65e6fbb5f067505859c
+FRC5800's code for the FRC Rapid React 2022 Season. 
